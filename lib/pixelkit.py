@@ -1,8 +1,5 @@
 """
 PixelKit v2.0 for CircuitPython
-- Fully supports reusing pins via registry
-- Keeps hex colors for PixelFramebuffer
-- Clears NeoPixels on pause press
 - Reads pause pin+direction from pausebutton_pin_config.txt
 """
 
